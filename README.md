@@ -15,6 +15,9 @@ Clean and intuitive UI
 Built-in Scientific Functions
 
 📲 Screenshots
+
+
+
 ![image](https://github.com/user-attachments/assets/11f68030-cf08-47b2-9f80-317727396c9a)
 
 
